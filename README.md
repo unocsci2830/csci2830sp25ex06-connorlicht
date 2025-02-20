@@ -1,3 +1,3 @@
-# Title (update this to match assignment, e.g., Exercise 3, etc.)
+# Exercise 6
 
-add short (1-2 sentences) description of assignment here
+This project contains the same pizza creator from the previous assignments but the hierarchy has been changed to implement packages.
